@@ -6,3 +6,6 @@ onnx_models/
 output/
 export_logs/
 .claude/
+build/
+install/
+log/
