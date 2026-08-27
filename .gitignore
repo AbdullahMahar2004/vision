@@ -5,3 +5,4 @@ models/
 onnx_models/
 output/
 export_logs/
+.claude/
