@@ -1,0 +1,12 @@
+# Python dependencies for vision_detect_node.py and gimbal_hold_up.py.
+# Everything else imported by these files (binascii, socket, struct, etc.) is
+# Python stdlib.
+#
+# NOT installable via plain pip -- provided by the Jetson/JetPack + ROS2
+# environment instead:
+#   rclpy               -- comes from sourcing the ROS2 install (e.g. /opt/ros/<distro>/setup.bash)
+#   tensorrt (10.3.0)   -- comes with NVIDIA JetPack, tied to the board's JetPack/CUDA version
+#   cuda-python (12.6.2.post1) -- also via JetPack's NVIDIA pip index, must match the installed CUDA version
+
+opencv-python==4.5.4
+numpy==1.21.5

@@ -24,13 +24,6 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'takeoff_sitl = suas_auto.takeoff_sitl:main',
-            'waypoint_sitl = suas_auto.waypoint_sitl:main',
-            'takeoff_land = suas_auto.takeoff_land_sitl:main',
-            'payload_sitl = suas_auto.payload_sitl:main',
-            'lawnmower = suas_auto.lawnmower_sitl:main',
-            'lawnmower_quad = suas_auto.lawnmower_quad:main',
-            'waypoint_lawnmower = suas_auto.waypoint_lawnmower_sitl:main',
             'vision_detect = suas_auto.vision_detect_node:main',
         ],
     },
