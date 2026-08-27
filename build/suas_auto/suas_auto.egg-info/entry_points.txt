@@ -1,3 +1,0 @@
-[console_scripts]
-vision_detect = suas_auto.vision_detect_node:main
-
