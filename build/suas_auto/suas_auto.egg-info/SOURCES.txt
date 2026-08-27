@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+resource/suas_auto
+suas_auto/__init__.py
+suas_auto/vision_detect_node.py
+suas_auto.egg-info/PKG-INFO
+suas_auto.egg-info/SOURCES.txt
+suas_auto.egg-info/dependency_links.txt
+suas_auto.egg-info/entry_points.txt
+suas_auto.egg-info/requires.txt
+suas_auto.egg-info/top_level.txt
+suas_auto.egg-info/zip-safe

@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating suas_auto.egg-info
+writing suas_auto.egg-info/PKG-INFO
+writing dependency_links to suas_auto.egg-info/dependency_links.txt
+writing entry points to suas_auto.egg-info/entry_points.txt
+writing requirements to suas_auto.egg-info/requires.txt
+writing top-level names to suas_auto.egg-info/top_level.txt
+writing manifest file 'suas_auto.egg-info/SOURCES.txt'
+reading manifest file 'suas_auto.egg-info/SOURCES.txt'
+writing manifest file 'suas_auto.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/sky/vision/install/suas_auto/lib/python3.10/site-packages/suas-auto.egg-link (link to .)
+Installing vision_detect script to /home/sky/vision/install/suas_auto/lib/suas_auto
+
+Installed /home/sky/vision/build/suas_auto
+running symlink_data
+creating /home/sky/vision/install/suas_auto/share/ament_index
+creating /home/sky/vision/install/suas_auto/share/ament_index/resource_index
+creating /home/sky/vision/install/suas_auto/share/ament_index/resource_index/packages
+symbolically linking /home/sky/vision/build/suas_auto/resource/suas_auto -> /home/sky/vision/install/suas_auto/share/ament_index/resource_index/packages
+symbolically linking /home/sky/vision/build/suas_auto/package.xml -> /home/sky/vision/install/suas_auto/share/suas_auto
